@@ -1,7 +1,7 @@
 # Modify this file to make it your own :-)
 
 variable "app_prefix" {
-  default = "gbmon"
+  default = "ghgen"
 }
 
 variable "pipeline_name" {

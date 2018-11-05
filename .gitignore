@@ -2,4 +2,7 @@ deploy_infra
 deploy_infra.pub
 credentials.yaml
 .terraform
-
+app
+app.pub
+KeyGen
+KeyGen.pub
