@@ -38,7 +38,7 @@ jobs:
 
 resources:
 
-# Replace with your own repository
+# Replace with your own rdffddepository
 - name: monitoring-app
   type: git
   source:
